@@ -8,7 +8,7 @@ I have been coding since the summer of 2022. I have a passion for backend, but a
 
 * 🌍  I'm based in Danmark
 * ✉️  You can contact me at [Julius@Hvidlassen.dk](mailto:Julius@Hvidlassen.dk)
-* 🧠  I'm learning Next
+* 🧠  I'm learning Next.js
 
 ### Skills
 
