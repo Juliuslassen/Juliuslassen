@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer science student
 ------------------------
 
-I have been coding since the summer of 2022. I have a passion for backend, but also enjoy the frontend.
+I have been coding since the summer of 2022. I have a passion for backend, but also enjoy frontend.
 
 * 🌍  I'm based in Danmark
 * ✉️  You can contact me at [Julius@Hvidlassen.dk](mailto:Julius@Hvidlassen.dk)
